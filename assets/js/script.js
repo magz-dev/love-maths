@@ -139,10 +139,3 @@ function displayMultiplyQuestion(operand1, operand2) {
     document.getElementById('operator').textContent = "x";
 
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-St
